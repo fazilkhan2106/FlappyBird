@@ -10,15 +10,14 @@ Welcome to the **Flappy Bird** game created using Java! This project is a recrea
 
 Here's a screenshot of the game in action:
 
-![Flappy Bird Screenshot](path-to-your-image.png)
+![Screenshot (3)](https://github.com/user-attachments/assets/d2b31de1-74a4-4306-8165-2e855a4f0db0)
 
-*Replace `path-to-your-image.png` with the actual path to the image you want to display.*
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/FlappyBird.git
+   [ [git clone https://github.com/yourusername/FlappyBird.git](https://github.com/fazilkhan2106/FlappyBird)](https://github.com/fazilkhan2106/FlappyBird)
     ```
 2. Navigate to the project directory:
     ```bash
@@ -26,8 +25,8 @@ Here's a screenshot of the game in action:
     ```
 3. Compile and run the game:
     ```bash
-    javac FlappyBird.java
-    java FlappyBird
+    javac App.java
+    java App
     ```
 
 ## How to Play
@@ -39,4 +38,5 @@ Here's a screenshot of the game in action:
 
 This project was made possible with the help and support of the following individual:
 
-- **[Name of the person who helped]** - For their guidance and assistance throughout the development process.
+- **[Kenny Yip Coding]** - (https://www.youtube.com/watch?v=Xw2MEG-FBsE&t=471s
+).
